@@ -3,8 +3,7 @@ Hi, I’m Sheryl Ojwando, a Data Analyst with a background in Statistics. <br>I 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheryl-ojwando-390468217) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)].[Email Me](mailto:sherylojwando@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheryl-ojwando-390468217) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sherylojwando@gmail.com)
 
 
 # 💻 Tech Stack:
