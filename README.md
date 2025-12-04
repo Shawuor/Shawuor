@@ -9,7 +9,7 @@ Hi, I’m **Sheryl Ojwando**, a passionate Data Analyst with a background in Sta
 
 | Project | Description |
 |---|---|
-| **[Breast Cancer Prediction (ML Classification)](link-to-project)** | EDA → Feature Engineering → Model Selection |
+| **[Breast Cancer Prediction (ML Classification)](https://github.com/Shawuor/Breast_cancer_prediction/tree/main)** | EDA → Feature Engineering → Model Selection |
 | **[NSE Macroeconomic Analysis](link-to-project)** | Python + Regression Models + Insights |
 | **[Excel & Power BI Dashboards](https://github.com/Shawuor/Online-Retail-Analysis)** | Interactive BI solutions |
 | **[Statistical Research Projects](link-to-project)** | University & Personal Work |
