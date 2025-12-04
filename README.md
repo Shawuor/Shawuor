@@ -1,6 +1,17 @@
 # 💫 About Me:
 Hi, I’m Sheryl Ojwando, a Data Analyst with a background in Statistics. <br>I work with Python, SQL, and BI tools to turn data into insights and<br>solve real-world problems. I’m continuously learning <br>and building projects in analytics and machine learning.
 
+My Projects
+
+Click to explore:
+
+📌 Breast Cancer Prediction (ML Classification) — EDA → Feature Engineering → Model Selection
+
+📌 NSE Macroeconomic Analysis — Python + Regression Models + Insights
+
+📌 Excel & Power BI Dashboards — Interactive BI solutions
+
+📌 Statistical Research Projects — University & Personal Work
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheryl-ojwando-390468217) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sherylojwando@gmail.com)
