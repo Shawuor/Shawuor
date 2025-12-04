@@ -1,11 +1,11 @@
-## 💫 About Me
+## About Me
 Hi, I’m **Sheryl Ojwando**, a passionate Data Analyst with a background in Statistics. I use **Python, SQL**, and various BI tools to transform data into actionable insights to tackle real-world challenges. Always eager to learn, I am continually building projects in analytics and machine learning.
 
 ---
 
-### 🌙 My Projects
+### My Projects
 <details>
-<summary>📌 Projects Overview</summary>
+<summary>Projects Overview</summary>
 
 | Project | Description |
 |---|---|
