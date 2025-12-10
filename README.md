@@ -10,9 +10,9 @@ Hi, I’m **Sheryl Ojwando**, a passionate Data Analyst with a background in Sta
 | Project | Description |
 |---|---|
 | **[Breast Cancer Prediction (ML Classification)](https://github.com/Shawuor/Breast_cancer_prediction/tree/main)** | EDA → Feature Engineering → Model Selection |
-| **[NSE Macroeconomic Analysis](link-to-project)** | Python + Regression Models + Insights |
 | **[Online Retail Analysis](https://github.com/Shawuor/Online-Retail-Analysis)** | Excel & BI |
 | **[Car mpg Predictors](https://github.com/Shawuor/Car_mpg_predictors)** | Python and ML |
+| **[Predictive Maintenance](https://github.com/Shawuor/PREDICTIVE-MAINTENANCE---PYTHON)**| Python| Failure or no failure|
 
 </details>
 
