@@ -14,7 +14,7 @@ Hi, I’m **Sheryl Ojwando**, a passionate Data Analyst with a background in Sta
 | **[Car mpg Predictors](https://github.com/Shawuor/Car_mpg_predictors)** | Python and ML |
 | **[Predictive Maintenance](https://github.com/Shawuor/PREDICTIVE-MAINTENANCE---PYTHON)**| Python| Failure or no failure|
 | **[Period Tracker app](https://github.com/Shawuor/Period_tracker_app)**|Streamlit , Python ,|
-| **[https://github.com/Shawuor/DATA-PROFESIONALS-SURVEY/tree/main)**|Power Bi|
+| **[Data Profesionals Survey](https://github.com/Shawuor/DATA-PROFESIONALS-SURVEY/tree/main)**|Power Bi|
 
 </details>
 
